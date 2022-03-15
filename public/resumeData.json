@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name":"Muhamad Ghufran Tripa Syaveyenda",
+    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image":"profilepic.jpg",
+    "bio":"Im a Software Engineering Student at Asia E-University I've learned about java, html and android studio but I'm not very proficient in these languages.",
+    "email": "m.ghufrantripa@gmail.com",
+    "phone": "081282673115",
+    "address":{
+      "street":"Jahe Street 43th",
+      "city":"Depok",
+      "state":"Indonesia",
+      "zip": "16421"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ghufran.tripasyaveyenda",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/TripaGhufran",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/muhamad-ghufran-tripa-syaveyenda-a5942121b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/goo.frannn/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ghufrantripa",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Asia e University",
+        "degree":"Bachelor of Information & Technology",
+        "graduated":"2024",
+        "description":""
+      },
+      {
+        "school":"CCIT FTUI",
+        "degree":"Information & Technology",
+        "graduated":"2022",
+        "description":""
+      },
+      {
+        "school":"SMA Bintara",
+        "degree":"Science",
+        "graduated":"2019",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Trana Consulting",
+        "title":"Personal Asistant",
+        "years":"3 Month",
+        "description":""
+      }
+    ],
+    "experience":[
+      {
+        "company":"Student Council",
+        "title":"Discipline Division",
+        "years":"2017-2019",
+        "description":""
+      },
+      {
+        "company":"Komandro CCIT FTUI",
+        "title":"Web Developer",
+        "years":"2020-present",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"Html",
+        "level":"75%"
+      },
+      {
+        "name":"Bootsrap",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"50%"
+      },
+      {
+        "name":"MySql",
+        "level":"60%"
+      },
+      {
+        "name":"Android Studio",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Blitz WebForum",
+        "category":"Web forum website",
+        "image":"01.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Lewzach Resto",
+        "category":"Restourant Website",
+        "image":"02.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"NotNotes App",
+        "category":"Note App in Android",
+        "image":"03.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Our Library",
+        "category":"Library Management System Website",
+        "image":"04.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+}
